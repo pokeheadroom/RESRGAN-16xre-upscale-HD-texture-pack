@@ -7,8 +7,6 @@ that esrgan offered me once the upscales were done the best results available an
 
 the reason some very small percentage of the original upscaled textures are still available in mine is because that pack served as both base and inspiration and if it weren't for the help and advice i received along the way this pack wouldn't exist.
 
-Download link to the finalized version: https://www.mediafire.com/file/matv71h2 ... e.zip/file
-
 if you are interested at having a closer look at how i made this here's a link to all of the upscales i made and chose from, be adviced this is a very heavy file (5.5gb):https://mega.nz/file/lGBVESob#dlD1QRD7- ... YHpONmo43c
 
 https://mega.nz/file/xepRWZ5I#KI4QheZS3 ... Qygy7AIcloI
@@ -23,30 +21,30 @@ testing by son aka somefairy and tanooki12
 special shoutouts to JAGSTAX for showing incredible ammounts of support
 
 Cleaner Aesthetics Contributors:
-Hakobe,
-Nathan,
-gunvalk,
-Guh Huh,
-grego,
-Ultra553,
-Dr.Sci-Fi,
-Derailus,
-CrashPro,
-Fanamel,
-FignetKazook,
-Roovahlees,
-Vertigo,
-Fanfreluche,
-granvillimus,
-Mazeo,
-Cazsu,
+|Hakobe|
+|Nathan|
+|gunvalk|
+|Guh Huh|
+|grego|
+|Ultra553|
+|Dr.Sci-Fi|
+|Derailus|
+|CrashPro|
+|Fanamel|
+|FignetKazook|
+|Roovahlees|
+|Vertigo|
+|Fanfreluche|
+|granvillimus|
+|Mazeo|
+|Cazsu|
 
 Project specific contributors:
-PokeHeadroom
-granvillimus
-p3st
-erableto
-Pat
-ShockinglySane
-garrit[jkl]
-cybercat
+|PokeHeadroom|
+|granvillimus|
+|p3st|
+|erableto|
+|Pat|
+|ShockinglySane|
+|garrit[jkl]|
+|cybercat|
