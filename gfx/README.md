@@ -7,7 +7,7 @@ that esrgan offered me once the upscales were done the best results available an
 
 the reason some very small percentage of the original upscaled textures are still available in mine is because that pack served as both base and inspiration and if it weren't for the help and advice i received along the way this pack wouldn't exist.
 
-if you are interested at having a closer look at how i made this here's a link to all of the upscales i made and chose from, be adviced this is a very heavy file (5.5gb):https://mega.nz/file/lGBVESob#dlD1QRD7- ... YHpONmo43c
+if you are interested at having a closer look at how i made this here's a link to all of the upscales i made and chose from, be adviced this is a very heavy file (5.5gb):https://mega.nz/folder/YYc0lKJJ
 
 https://mega.nz/file/xepRWZ5I#KI4QheZS3 ... Qygy7AIcloI
 before i end this i would like to provide a list of contributors who have been a great help to me and anyone who wants their game to look better
