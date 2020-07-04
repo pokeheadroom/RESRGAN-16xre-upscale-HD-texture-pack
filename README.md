@@ -24,3 +24,4 @@ special shoutouts to JAGSTAX for showing incredible ammounts of support
 
 pack originally based on the work done by the cleaner aesthetics team: check them out at mega (cmon guys move to github already)
 https://mega.nz/folder/q49hQaAb#RTNiN96lfa2FSLvB8u9NSQ
+❮img src="screenshots/sm64.us.f3dex2e 2020-07-04 00-52-06.png" width="100" ❯
