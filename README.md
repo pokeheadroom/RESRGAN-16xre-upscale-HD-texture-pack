@@ -12,15 +12,15 @@ special shoutouts to JAGSTAX for showing incredible ammounts of support
 
 ♛project specific contributors♛
 ----------------------------------
-Erableto
-granvillimus
-PokeHeadroom
-♛p3st♛
-erableto
-ShockinglySane
-Pat
-CyberCat
-garrit[jkl]
+|Erableto|
+|granvillimus|
+|PokeHeadroom|
+|♛p3st♛|
+|erableto|
+|ShockinglySane|
+|Pat|
+|CyberCat|
+|garrit[jkl]|
 
 pack originally based on the work done by the cleaner aesthetics team: check them out at mega (cmon guys move to github already)
 https://mega.nz/folder/q49hQaAb#RTNiN96lfa2FSLvB8u9NSQ
