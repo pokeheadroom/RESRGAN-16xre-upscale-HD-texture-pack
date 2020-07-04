@@ -2,12 +2,16 @@
 a texture pack for super mario 64 that is made of a compillation of the best results esrgan upscaling could make as well of various other improvements made by me or one of my contributors
 forum post: http://sm64pc.info/forum/viewtopic.php?f=3&t=46
 
-texture pack by PokeHeadroom
+Texture pack by PokeHeadroom
 
 initial esrgan upscale by ♛Erableto♛
+
 esrgan upscaling organizer script by ♛erableto♛
+
 re-upscales and tweaked seamless upscales by pokeheadroom
+
 testing by son aka somefairy and tanooki12
+
 special shoutouts to JAGSTAX for showing incredible ammounts of support
 
 ♛project specific contributors♛
