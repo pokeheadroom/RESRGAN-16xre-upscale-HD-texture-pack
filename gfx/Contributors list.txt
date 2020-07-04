@@ -1,6 +1,7 @@
 WELCOME TO THE RESRGAN 16xre-upscale HD texture pack
-check the forum post for updates
+check the forum or github post for updates
 http://sm64pc.info/forum/viewtopic.php?
+https://github.com/pokeheadroom/RESRGAN-16xre-upscale-HD-texture-pack
 
 check out the official discord sm64 pc port discord server
 https://discord.gg/N55hAaN
