@@ -1,7 +1,7 @@
 # RESRGAN-old-school-hd-texture-pack
 https://www.youtube.com/watch?v=ZbMgDLf5-yM
 
-a texture pack for super mario 64 that is made of a compillation of the best results esrgan upscaling could make as the base for this project, the true aim for this project/branch is to use the original sources for every texture in the game and use that to hopefully achieve 100% accuracy by recreating the textures with the same process and resources nintendo had at their disposal back in 1996 as well of incorporating elements from the promotional art into the game with esrgan upscales filling the blanks where no sources could be found
+a collaboration texture pack for super mario 64 with the people over at the oldschoolhd project that is made of a compillation of the best results esrgan upscaling could make as the base for this project, the true aim for this project/branch is to use the original sources for every texture in the game and use that to hopefully achieve 100% accuracy by recreating the textures with the same process and resources nintendo had at their disposal back in 1996 as well of incorporating elements from the promotional art into the game with esrgan upscales filling the blanks where no sources could be found
 
 
 forum post: http://sm64pc.info/forum/viewtopic.php?f=3&t=46
@@ -30,6 +30,16 @@ special shoutouts to JAGSTAX for showing incredible ammounts of support
 |CyberCat|
 |garrit[jkl]|
 |roovahlees|
+
+Branch specific contributors:
+
+Fanamel
+
+Deefor
+
+Roovalees
+
+Clamibalism
 
 pack originally based on the work done by the cleaner aesthetics team: check them out at mega (cmon guys move to github already)
 https://mega.nz/folder/q49hQaAb#RTNiN96lfa2FSLvB8u9NSQ
