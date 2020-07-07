@@ -33,13 +33,23 @@ special shoutouts to JAGSTAX for showing incredible ammounts of support
 
 Branch specific contributors:
 
-Fanamel
-
-Deefor
-
-Roovalees
-
 Clamibalism
+
+Fanamel	"Found Matches/Provided Hires Links
+
+Maintains Spreadsheet"	https://twitter.com/FanamelT
+
+Roovahlees	Found Matches/Provided Hires Links	https://www.youtube.com/channel/UCrOHwRwupiQSqbKih14MnHQ
+
+Pokehead Room	Found Matches/Provided Hires Links	
+
+JY	Found Matches/Provided Hires Links	https://twitter.com/jycompany_
+
+Deefor	Found Matches/Provided Hires Links	
+
+Uh-Huh	Found Matches/Provided Hires Links	
+
+Pik	Found Matches	
 
 pack originally based on the work done by the cleaner aesthetics team: check them out at mega (cmon guys move to github already)
 https://mega.nz/folder/q49hQaAb#RTNiN96lfa2FSLvB8u9NSQ
