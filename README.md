@@ -29,7 +29,7 @@ special shoutouts to JAGSTAX for showing incredible ammounts of support
 |garrit[jkl]|
 |roovahlees|
 
-pack originally based on the work done by the cleaner aesthetics team: check them out at mega (cmon guys move to github already)
+pack originally based on the work done by the cleaner aesthetics team: check them out
 https://github.com/CrashCrod/Cleaner-Aesthetics
 ![](screenshots/sm64.us.f3dex2e%202020-07-04%2000-52-06.png)
 ![](screenshots/sm64.us.f3dex2e%202020-07-04%2000-52-23.png)
