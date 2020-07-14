@@ -51,8 +51,7 @@ Uh-Huh	Found Matches/Provided Hires Links
 
 Pik	Found Matches	
 
-pack originally based on the work done by the cleaner aesthetics team: check them out at mega (cmon guys move to github already)
-https://mega.nz/folder/q49hQaAb#RTNiN96lfa2FSLvB8u9NSQ
+pack originally based on the work done by the cleaner aesthetics team: check them out https://github.com/CrashCrod/Cleaner-Aesthetics
 ![](screenshots/sm64.us.f3dex2e%202020-07-04%2000-52-06.png)
 ![](screenshots/sm64.us.f3dex2e%202020-07-04%2000-52-23.png)
 ![](screenshots/sm64.us.f3dex2e%202020-07-04%2000-53-27.png)
