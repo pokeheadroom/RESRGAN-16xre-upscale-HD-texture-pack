@@ -29,6 +29,28 @@ special shoutouts to JAGSTAX for showing incredible ammounts of support
 |garrit[jkl]|
 |roovahlees|
 
+oldschool variant contributors
+-------------------------------------
+Clamibalism
+
+Fanamel "Found Matches/Provided Hires Links
+
+Maintains Spreadsheet" https://twitter.com/FanamelT
+
+Roovahlees Found Matches/Provided Hires Links https://www.youtube.com/channel/UCrOHwRwupiQSqbKih14MnHQ
+
+Poke Headroom Found Matches/worked on adding textures/Provided Hires Links https://twitter.com/PokeHeadroom
+
+JY Found Matches/Provided Hires Links https://twitter.com/jycompany_
+
+Deefor Found Matches/Provided Hires Links
+
+Uh-Huh Found Matches/Provided Hires Links
+
+Pik Found Matches
+
+Threeplanet66 Worked on adding textures
+
 pack originally based on the work done by the cleaner aesthetics team: check them out
 https://github.com/CrashCrod/Cleaner-Aesthetics
 ![](screenshots/sm64.us.f3dex2e%202020-07-04%2000-52-06.png)
