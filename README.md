@@ -1,4 +1,4 @@
-# RESRGAN-RENDER96-HD-texture-pack
+# RESRGAN-n64-faithful-HD-texture-pack
 https://www.youtube.com/watch?v=ZbMgDLf5-yM
 
 a collaboration texture pack for super mario 64 with the people over at the oldschoolhd project that is made of a compillation of the best results esrgan upscaling could make as the base for this project, the true aim for this project/branch is to use the original sources for every texture in the game and use that to hopefully achieve 100% accuracy by recreating the textures with the same process and resources nintendo had at their disposal back in 1996 as well of incorporating elements from the promotional art into the game with esrgan upscales filling the blanks where no sources could be found
