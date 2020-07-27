@@ -10,6 +10,7 @@ initial esrgan upscale by ♛Erableto♛
 esrgan upscaling organizer script by ♛erableto♛
 re-upscales and tweaked seamless upscales by pokeheadroom
 testing by son aka somefairy and tanooki12
+original source for the metal mario texture by ecumber05 and Comboy0527 on twitter
 special shoutouts to JAGSTAX for showing incredible ammounts of support
 
 Cleaner Aesthetics  Contributors: 
