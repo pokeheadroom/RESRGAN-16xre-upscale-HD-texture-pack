@@ -1,4 +1,4 @@
-#SM64 ESRGAN-16x-upscale-HD-texture-pack
+# SM64 ESRGAN-16x-upscale-HD-texture-pack
 https://www.youtube.com/watch?v=ZbMgDLf5-yM
 
 a texture pack for super mario 64 that is made of a compillation of the best results esrgan upscaling could make as well of various other improvements made by me or one of my contributors
