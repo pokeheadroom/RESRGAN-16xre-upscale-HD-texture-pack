@@ -1,8 +1,10 @@
-# RESRGAN-16xre-upscale-HD-texture-pack
+#SM64 ESRGAN-16x-upscale-HD-texture-pack
 https://www.youtube.com/watch?v=ZbMgDLf5-yM
 
 a texture pack for super mario 64 that is made of a compillation of the best results esrgan upscaling could make as well of various other improvements made by me or one of my contributors
 forum post: http://sm64pc.info/forum/viewtopic.php?f=3&t=46
+
+AI ESRGAN models provided from the upscaling wiki and https://openmodeldb.info/
 
 Texture pack by PokeHeadroom
 
@@ -14,7 +16,7 @@ re-upscales and tweaked seamless upscales by pokeheadroom
 
 testing by son aka somefairy and tanooki12
 
-special shoutouts to JAGSTAX for showing incredible ammounts of support
+special shoutouts to JAGSTAX for testing and cheering me on
 
 ♛project specific contributors♛
 ----------------------------------
